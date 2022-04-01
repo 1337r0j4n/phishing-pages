@@ -1,8 +1,6 @@
-<!--
-<p align="center">
-<img src="https://raw.githubusercontent.com/7r0j4ncodeing/web-shells/main/.img/websh3ll.jpg" height="200">
-</p>
--->
+<div align="center">
+ <h1> -+[ READY  MADE  PHISHING  PAGEs ]+-</></h1>
+</div>
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/1337r0j4n/phishing-pages?style=for-the-badge">
 <img src="https://img.shields.io/github/forks/1337r0j4n/phishing-pages?color=orange&style=for-the-badge">
