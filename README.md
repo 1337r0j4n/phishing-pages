@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/github/issues/1337r0j4n/phishing-pages?color=red&style=for-the-badge">
 <img src="https://img.shields.io/badge/By%20-7r0j4n-lime?style=for-the-badge">
 </p>
-<div align="center">
+
 # Available
 - Adobe
 - Badoo
@@ -47,4 +47,3 @@
 - xbox
 - yahoo
 - yandex
-</div>
