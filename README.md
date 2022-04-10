@@ -9,4 +9,40 @@
 </p>
 
 ## Available
+adobe
+#badoo
+deviantart
+dropbox
+ebay
+facebook
+fb_messenger
+github
+gitlab
+google
+ig_followers
+instagram
+linkedin
+mediafire
+microsoft
+mlbb
+netflix
+origin
+paypal
+pinterest
+playstation
+protonmail
+quora
+reddit
+snapchat
+spotify
+stackoverflow
+steam
+tiktok
+twitch
+twitter
+vk
+wordpress
+xbox
+yahoo
+yandex
 
